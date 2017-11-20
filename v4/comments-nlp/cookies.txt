@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.acessospremium.com	TRUE	/	FALSE	1999999999	__cfduid	d18ae78288eac1ab42cae9eb9cd41dec31511201334
+
